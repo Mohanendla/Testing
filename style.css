@@ -1,0 +1,10 @@
+h1{
+    color: rgb(28, 98, 74);
+    border: 5px solid rgb(39, 28, 28);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+body{
+     background-color: bisque;
+}
